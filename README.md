@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=dwiantaramd&label=Profile%20views&color=03a506&style=flat" alt="dwiantaramd" /> 
 </p>
 
-<h2 align="center">Hi, I'm Dwi Antara 👋</h2>
+<h2 align="center">Hi, I'm Mahardhika 👋</h2>
 <p align="center">A passionate developer who loves to explore new technologies!</p>
 
 ---
